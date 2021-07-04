@@ -1,2 +1,2 @@
 # myEngine
-making a gmae engine
+making a game engine
