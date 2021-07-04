@@ -1,0 +1,6 @@
+    filter {"system:windows", "configurations:Release"}
+        buildpotions "/MT"
+
+        
+    filter {"system:windows", "configurations:Dist"}
+        buildpotions "/MT"

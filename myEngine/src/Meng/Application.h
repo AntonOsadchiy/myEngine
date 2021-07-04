@@ -17,5 +17,3 @@ namespace meng
 
 	Application* CreateApplication(); // to be defined by client
 }
-
-
